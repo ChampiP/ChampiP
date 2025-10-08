@@ -10,12 +10,14 @@
 ---
 
 ## 👨‍💻 Sobre mí
+
 Soy **Brayan Champi Pauccara**, un joven desarrollador apasionado por el **código limpio**, la **inteligencia artificial** y los **proyectos que fusionan arte y tecnología**.  
 Mi meta es crear soluciones digitales que no solo funcionen, sino que inspiren. 🚀
 
 ---
 
 ## 👀 Intereses
+
 - 🤖 Inteligencia Artificial  
 - 💻 Desarrollo web y móvil  
 - 🛡️ Ciberseguridad  
@@ -24,6 +26,7 @@ Mi meta es crear soluciones digitales que no solo funcionen, sino que inspiren. 
 ---
 
 ## 💞️ Busco colaborar en
+
 - 🌱 Proyectos open source con impacto social  
 - 📚 Aplicaciones educativas con IA  
 - 💡 Ideas locas pero brillantes  
@@ -31,13 +34,15 @@ Mi meta es crear soluciones digitales que no solo funcionen, sino que inspiren. 
 ---
 
 ## 🛠️ Tecnologías que domino
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,react,sqlite,mysql,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,react,mysql,wordpress,arduino,git,github" />
 </p>
 
 ---
 
 ## 📊 Mis estadísticas de GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChampiP&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampiP&layout=compact&theme=tokyonight&hide_border=true" height="165" />
@@ -46,12 +51,14 @@ Mi meta es crear soluciones digitales que no solo funcionen, sino que inspiren. 
 ---
 
 ## ✨ Frase favorita
+
 > _"El código bien escrito es poesía que la máquina entiende."_  
 > — **ChampiP**
 
 ---
 
 ## 🌐 Conecta conmigo
+
 <p align="center">
   <a href="mailto:champibrayan14@gmail.com"><img src="https://img.shields.io/badge/Email-ff4b5c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/brayan-champi-14b9a32bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

@@ -1,6 +1,6 @@
-<!-- Banner superior animado -->
+<!-- 💫 Banner animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+ChampiP;Ingeniero+de+Software+con+IA;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo+limpio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=🚀+Hola%2C+soy+ChampiP;Ingeniero+de+Software+con+IA;Amante+del+código+limpio+y+la+innovación!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,43 +9,60 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧠 Sobre mí
 
-Soy **Brayan Champi Pauccara**, un joven desarrollador apasionado por el **código limpio**, la **inteligencia artificial** y los **proyectos que fusionan arte y tecnología**.  
-Mi meta es crear soluciones digitales que no solo funcionen, sino que inspiren. 🚀
-
----
-
-## 👀 Intereses
-
-- 🤖 Inteligencia Artificial  
-- 💻 Desarrollo web y móvil  
-- 🛡️ Ciberseguridad  
-- 🎨 Proyectos que mezclen arte + tecnología  
+Soy **Brayan Champi Pauccara**, desarrollador de software con enfoque en **IA, ciberseguridad y desarrollo web**.  
+Creo en el poder del código como forma de arte y herramienta para cambiar el mundo. ⚡
 
 ---
 
-## 💞️ Busco colaborar en
+## ⚙️ Tecnologías y herramientas
 
-- 🌱 Proyectos open source con impacto social  
-- 📚 Aplicaciones educativas con IA  
-- 💡 Ideas locas pero brillantes  
+### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress" />
+</p>
 
----
+### 🔧 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,java,python" />
+</p>
 
-## 🛠️ Tecnologías que domino
+### 🗄️ Bases de datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,react,sql,wordpress,arduino,git,github" />
+### 🤝 Trabajo en equipo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,notion,trello" />
 </p>
 
 ---
 
-## 📊 Mis estadísticas de GitHub
+## 📈 Estadísticas en tiempo real
+
+> *Estas métricas se actualizan automáticamente con [GitHub Metrics](https://github.com/lowlighter/metrics).*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChampiP&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampiP&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github.com/ChampiP/ChampiP/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ChampiP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="165" 
+    alt="Estadísticas de GitHub de ChampiP"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampiP&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165" 
+    alt="Lenguajes más usados por ChampiP"
+  />
 </p>
 
 ---
@@ -68,9 +85,10 @@ Mi meta es crear soluciones digitales que no solo funcionen, sino que inspiren. 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChampiP&label=Visitas&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ChampiP&label=Visitas&color=00F5FF&style=flat" alt="Profile views" />
 </p>
 
 <!---
 ChampiP/ChampiP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+

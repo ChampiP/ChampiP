@@ -36,7 +36,7 @@ Mi meta es crear soluciones digitales que no solo funcionen, sino que inspiren. 
 ## 🛠️ Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,react,mysql,wordpress,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,react,sql,wordpress,arduino,git,github" />
 </p>
 
 ---

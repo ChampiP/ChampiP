@@ -20,7 +20,7 @@ Creo en el poder del código como forma de arte y herramienta para cambiar el mu
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" />
 </p>
 
 ### 🔧 Backend
@@ -42,7 +42,8 @@ Creo en el poder del código como forma de arte y herramienta para cambiar el mu
 
 ## 📈 Estadísticas en tiempo real
 
-> *Estas métricas se actualizan automáticamente con [GitHub Metrics](https://github.com/lowlighter/metrics).*
+> *Estas métricas se actualizan automáticamente con GitHub Metrics.*
+
 
 <p align="center">
   <img src="https://github.com/ChampiP/ChampiP/blob/main/github-metrics.svg" alt="GitHub Metrics" />

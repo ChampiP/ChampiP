@@ -20,7 +20,7 @@ Creo en el poder del código como forma de arte y herramienta para cambiar el mu
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" />
 </p>
 
 ### 🔧 Backend
@@ -30,24 +30,18 @@ Creo en el poder del código como forma de arte y herramienta para cambiar el mu
 
 ### 🗄️ Bases de datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" />
+  <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
 </p>
+
 
 ### 🤝 Trabajo en equipo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,notion,trello" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion" />
 </p>
 
 ---
 
-## 📈 Estadísticas en tiempo real
-
-> *Estas métricas se actualizan automáticamente con GitHub Metrics.*
-
-
-<p align="center">
-  <img src="https://github.com/ChampiP/ChampiP/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 ---
 

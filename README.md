@@ -20,7 +20,7 @@ Creo en el poder del código como forma de arte y herramienta para cambiar el mu
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
 </p>
 
 ### 🔧 Backend
